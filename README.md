@@ -1,2 +1,2 @@
 # Anna-Goals
-Repoaitory untuk goals Anna kedepan
+Repository untuk goals Anna kedepan
